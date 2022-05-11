@@ -1,0 +1,8 @@
+filename	ATTRIBUTE_Species	ATTRIBUTE_XXX_iNat_id	ATTRIBUTE_group	ATTRIBUTE_solvant
+20220504_GroupA_DGBI_01_06_01.mzML	Allium ursinum	https://www.inaturalist.org/observations/111308148	Gp_A	Methanol
+20220504_GroupA_DGBI_01_06_04.mzML	Lavandula angustifolia	https://www.inaturalist.org/observations/111309381	Gp_A	Methanol
+20220504_GroupA_DGBI_01_06_07.mzML	Melissa officinalis	https://www.inaturalist.org/observations/112942402	Gp_A	Methanol
+20220504_GroupA_DGBI_01_06_10.mzML	Mentha × piperita	https://www.inaturalist.org/observations/112942446	Gp_A	Methanol
+20220504_GroupA_DGBI_01_06_13.mzML	Allium insubricum	https://www.inaturalist.org/observations/112942497	Gp_A	Methanol
+20220504_GroupA_DGBI_01_06_16.mzML	Allium fistulosum	https://www.inaturalist.org/observations/112942553	Gp_A	Methanol
+20220504_GroupA_DGBI_01_06_blanc.mzML	ND	ND	Gp_A	Methanol
