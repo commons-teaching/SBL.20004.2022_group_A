@@ -115,7 +115,6 @@ Before the representation of the found molecular network, the colour legend is r
 
 ![LC_Colors](https://user-images.githubusercontent.com/103575088/169083957-43d7d7c7-f745-44e7-aaa0-8f13541d2b83.png)
 
-And the colours correspond to the following samples: 
 
 1 = Allium ursinum
 
@@ -132,6 +131,8 @@ And the colours correspond to the following samples:
 7 = blanc (methanol)
 
 The following pictures represent the molecular network and some clusters of interest of the project
+
+
 
 
 ![LC_Cytoscape_Network_Allium_fistulosum](https://user-images.githubusercontent.com/103575088/169084454-0cacd600-68a3-4d73-9d78-ac4e27c6d5d8.png)
