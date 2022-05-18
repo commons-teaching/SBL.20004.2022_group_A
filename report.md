@@ -1,4 +1,4 @@
-# Metabolomics analysis report
+# Metabolomics analysis report: Investigation of similitudes and differences between Amaryllidaceae and Lamiaceae families
 SBL.20004 
 
 18.05.2022
@@ -87,21 +87,27 @@ GNPS job file link : https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=99e8ef38b7
 Regarding GC-MS, 70 features were in the end cleaned, in contrary to the LC-MS where 69 features were found. 
 A link to the final feature list (uploaded to github).
 
-https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAK5pqYpwhB9CkHpyOdYb8L4%3D&X-OWA-CANARY=sxy98wSG7k6IRr2vt78ccyBpMJffONoIyIHaTcnVTpvJTGN-LmZrCqCd2inXcgAooB8b_dBKagE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074103-a7b8dbcd-44fa-45c8-be5a-fe8d0a686316.png)
+#### LC-MS
 
-https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAG2lDJ3cr6dBoUTtLrZV%2FxQ%3D&X-OWA-CANARY=rNBEvYgyQESJnLCgy5LrEKDeAZffONoIyTtRmPUjTmUZYEJIGHcrmb-gMkfusQVacZQYNJ6CpXE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074170-4b9edfc9-536e-448d-8c5f-bca62a24d363.png)
+Looking at the molecular network of our plants, it was possible to select some interesting metabolites which are
 
-https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAGXulrodvEBFsJEDi2dM%2BSw%3D&X-OWA-CANARY=rNBEvYgyQESJnLCgy5LrEKDeAZffONoIyTtRmPUjTmUZYEJIGHcrmb-gMkfusQVacZQYNJ6CpXE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074218-70ba7a3c-625e-40e3-bcb7-0747dfc73ee3.png)
+![eucalyptol (1,8-cineol)](https://user-images.githubusercontent.com/103575088/169075234-0aabe2dd-647a-4b3c-b709-937c62896cdb.png)
 
-
-https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAOxi5ac57AJPtsJ%2BNsxAQ3E%3D&X-OWA-CANARY=rNBEvYgyQESJnLCgy5LrEKDeAZffONoIyTtRmPUjTmUZYEJIGHcrmb-gMkfusQVacZQYNJ6CpXE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074288-5d5fe527-984d-4906-a61d-28e5537057e1.png)
-
+![eucalyptol_molecule](https://user-images.githubusercontent.com/103575088/169075265-4da2ea96-40cb-4400-a011-c52645e45d7e.png)
 
 
-https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAGJxS1RRzuhPqFR8zdbz97Q%3D&X-OWA-CANARY=rNBEvYgyQESJnLCgy5LrEKDeAZffONoIyTtRmPUjTmUZYEJIGHcrmb-gMkfusQVacZQYNJ6CpXE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074330-3c71ac73-24b0-4284-ad92-f32ddbb8af99.png)
 
 
-https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAHpiNvNa5ZhDh%2BiY40EhA3k%3D&X-OWA-CANARY=rNBEvYgyQESJnLCgy5LrEKDeAZffONoIyTtRmPUjTmUZYEJIGHcrmb-gMkfusQVacZQYNJ6CpXE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074375-80efb063-f620-4109-92d1-91ecefe060fa.png)
+![gardeninB](https://user-images.githubusercontent.com/103575088/169075309-9989cac5-856d-42af-8bad-4062066e1c61.png)
+
+<img width="315" alt="gardeninB_molecule" src="https://user-images.githubusercontent.com/103575088/169075321-e224f9db-bae5-4a68-8293-454cff6657e3.png">
+
+
+
+![hesperidin](https://user-images.githubusercontent.com/103575088/169075337-f2af8276-3e16-40da-a3ef-c9b3f2fe057a.png)
+
+<img width="309" alt="hesperidin_molecule" src="https://user-images.githubusercontent.com/103575088/169075346-485794e1-59bc-4816-840b-0949005ecd67.png">
+
 
 
 
