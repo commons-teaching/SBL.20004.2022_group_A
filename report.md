@@ -84,12 +84,32 @@ GNPS job file link : https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=99e8ef38b7
 
 ### MS1
 
-How many features could you clean in your final peak list ?
+Regarding GC-MS, 70 features were in the end cleaned, in contrary to the LC-MS where 69 features were found. 
 A link to the final feature list (uploaded to github).
+
+https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAK5pqYpwhB9CkHpyOdYb8L4%3D&X-OWA-CANARY=sxy98wSG7k6IRr2vt78ccyBpMJffONoIyIHaTcnVTpvJTGN-LmZrCqCd2inXcgAooB8b_dBKagE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074103-a7b8dbcd-44fa-45c8-be5a-fe8d0a686316.png)
+
+https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAG2lDJ3cr6dBoUTtLrZV%2FxQ%3D&X-OWA-CANARY=rNBEvYgyQESJnLCgy5LrEKDeAZffONoIyTtRmPUjTmUZYEJIGHcrmb-gMkfusQVacZQYNJ6CpXE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074170-4b9edfc9-536e-448d-8c5f-bca62a24d363.png)
+
+https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAGXulrodvEBFsJEDi2dM%2BSw%3D&X-OWA-CANARY=rNBEvYgyQESJnLCgy5LrEKDeAZffONoIyTtRmPUjTmUZYEJIGHcrmb-gMkfusQVacZQYNJ6CpXE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074218-70ba7a3c-625e-40e3-bcb7-0747dfc73ee3.png)
+
+
+https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAOxi5ac57AJPtsJ%2BNsxAQ3E%3D&X-OWA-CANARY=rNBEvYgyQESJnLCgy5LrEKDeAZffONoIyTtRmPUjTmUZYEJIGHcrmb-gMkfusQVacZQYNJ6CpXE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074288-5d5fe527-984d-4906-a61d-28e5537057e1.png)
+
+
+
+https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAGJxS1RRzuhPqFR8zdbz97Q%3D&X-OWA-CANARY=rNBEvYgyQESJnLCgy5LrEKDeAZffONoIyTtRmPUjTmUZYEJIGHcrmb-gMkfusQVacZQYNJ6CpXE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074330-3c71ac73-24b0-4284-ad92-f32ddbb8af99.png)
+
+
+https://mail.unifr.ch/owa/service.svc/s/GetFileAttachment?id=AAMkADViN2I5ZWUwLTI4NWItNGVmOS1iNjBmLWFiNzU1NTEzYmM3YwBGAAAAAAD7Vttx8dVmS4%2FQYPkjGy9XBwD%2BkfeKzvebR59gBT7NtW1PAAAAAAEMAABShW2oo3VQSrSMS%2FgccC0lAAJzd3pUAAABEgAQAHpiNvNa5ZhDh%2BiY40EhA3k%3D&X-OWA-CANARY=rNBEvYgyQESJnLCgy5LrEKDeAZffONoIyTtRmPUjTmUZYEJIGHcrmb-gMkfusQVacZQYNJ6CpXE.&isImagePreview=True![image](https://user-images.githubusercontent.com/103575088/169074375-80efb063-f620-4109-92d1-91ecefe060fa.png)
+
+
 
 ### Molecular Network
 
 Screenshots of your molecular network and of some clusters of interest.
+
+
 Link to the GNPS job.
 Link to the GNPS identification table.
 
