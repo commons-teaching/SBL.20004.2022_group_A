@@ -5,9 +5,9 @@ SBL.20004
 
 ----
 Group A
-- Maxime Staedler
-- Carola Velti
-- Alisson Gillon
+- Staedler Maxime
+- Velti Carola
+- Gillon Alisson
 ----
 
 
