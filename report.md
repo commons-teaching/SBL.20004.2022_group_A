@@ -46,6 +46,7 @@ Example see [table X](https://github.com/commons-teaching/SBL.20004.2022/blob/ma
 - Describe the software and parameters used.
 
 ## Results
+GNPS job file link : https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab
 
 
 ### MS1
