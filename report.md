@@ -89,12 +89,16 @@ A link to the final feature list (uploaded to github).
 
 #### LC-MS
 
-Looking at the molecular network of our plants, it was possible to select some interesting metabolites which are
+Looking at the molecular network of our plants, it was possible to select some interesting metabolites which are represented below: 
+
+Eucalyptol: 
 
 <img width="465" alt="eucalyptol" src="https://user-images.githubusercontent.com/103575088/169078425-c8e76817-19ce-415e-af5e-70a8df325a07.png">
 
+Gardenin B
 <img width="470" alt="gardeninB" src="https://user-images.githubusercontent.com/103575088/169078454-9ec3eef1-49fb-454e-8f9b-80d7cc589eac.png">
 
+Hesperidin
 <img width="479" alt="hesperidin" src="https://user-images.githubusercontent.com/103575088/169078486-1f010162-18e1-433a-a1da-a50ea57c8f54.png">
 
 
