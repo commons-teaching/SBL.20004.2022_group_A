@@ -130,6 +130,16 @@ Before the representation of the found molecular network, the colour legend is r
 
 7 = blanc (methanol)
 
+
+
+
+
+
+
+
+
+
+
 The following pictures represent the molecular network and some clusters of interest of the project
 
 
