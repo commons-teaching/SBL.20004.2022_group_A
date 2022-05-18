@@ -4,10 +4,10 @@ SBL.20004
 18.05.2022
 
 ----
-Group X
-- Surname Name
-- Surname Name
-- Surname Name
+Group A
+- Maxime Staedler
+- Carola Velti
+- Alisson Gillon
 ----
 
 
