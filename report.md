@@ -13,16 +13,30 @@ Group A
 
 ## Introduction
 
-Some words on the backgorund of your projects.
-Which plants did you select and why ?
+This project was started in March 2022, and at this point it was asked to think about a project to do during the following weeks. 
+The first thing to do was to decide the plants to study, having a precise aim making the choice. Finally, it was decided to investigate 6 smelly plants, devided in two groups composed by 3 plants. The two groups were devided by family of plants, the first group containing Allium ursinum, Allium insubricum and allium fistulosum from the family of Amaryllidaceae and the second one containing Mentha x piperita, Melissa officinalis and Lavandula angustifolia being part of the Lamiaceae family. One of the main aim of the project was to investigate if these two families of plants were correlated one with another, or if the metabolites produced by the plants were more similar among one family than between the two. 
+Furthermore, a second aim of the project, was to study which extraction and analysis method was the best for our plants, trying to get a good protocol for future investigations.
+
 
 ## Material & Methods
 
 ### Sample collection
+ 
 
-- Where we the plants collected ? 
-- Which species were collected ? 
-- Link to the iNaturalist entries of your species.
+The samples were collected in the botanical garden of Fribourg, in date 13. 04. 2022. The precise location of the collection of each sample is represented in the following picture, showing the 6 precise places. Furthermore, the links reported under the picture represent the specific links for the iNaturalist page of each collected plant. 
+
+
+<img width="1439" alt="Schermata 2022-05-18 alle 15 24 47" src="https://user-images.githubusercontent.com/103575088/169052258-60dbe46b-f98d-4073-b950-680b7cf3cf42.png">
+
+
+Allium Fistulosum: https://www.inaturalist.org/observations/112942553
+Allium insubricum: https://www.inaturalist.org/observations/112942497
+Allium ursinum: https://www.inaturalist.org/observations/111308148
+Mentha x piperita https://www.inaturalist.org/observations/112942446
+Melissa officinalis: https://www.inaturalist.org/observations/112942402
+Lavandula angustifolia: https://www.inaturalist.org/observations/111309381
+
+Regarding the collection method, some leaves of each plant were cutted with a cutter and immediately immersed in liquid nitrogen, to froze the cells without breaking them and to shut down the metabolitic pathways as soon as possible. The samples were then stored at -80°C until sample preparation. 
 
 You can link a csv that you upload on github.
 Go to the export link of the DBGI project on inaturalist https://www.inaturalist.org/observations/export?projects=digital-botanical-gardens-initiative
@@ -34,9 +48,23 @@ Example see [table X](https://github.com/commons-teaching/SBL.20004.2022/blob/ma
 
 ### Sample preparation
 
-- Describe your sample preparation
+The frozen samples were taken out from the freezer and they were crumbled with a cold scissor, to enable better extraction. 
+For each plant, it was decided to extract with three different solvents: heptane and dichloromethane for samples for GC-MS analysis and methanol for samples for LC-MS analysis. 
+Around 200 mg of crumbled plant tissue were weighed and putted into a glass erlenmeyer flask and immediately covered with 20 mL of the given solvent; this procedure was used for all the samples and all the extraction solvents. 
+In the following table the exact weighted masses for each sample are reported:
+
+<img width="298" alt="Schermata 2022-05-18 alle 16 19 14" src="https://user-images.githubusercontent.com/103575088/169063944-849187d6-32a2-49e0-9bc6-83ed9d0f13fa.png">
+
+The erlenmeyer containing the solvents and the plant tissues were covered with an aliuminium foil to avoid excessive evaporation and shaked overnight under the fume hood. 
+The extracted samples were then filtered with filter paper and putted into small glass tubes, before being putted at -20°C until sample injection.
+The day of injection, the samples were putted in specific LC or GC glass tubes and injected in the machine. 
 
 ### LCMS Analysis
+
+- Describe the LC conditions
+- Describe the MS conditions
+
+### GCMS Analysis
 
 - Describe the LC conditions
 - Describe the MS conditions
