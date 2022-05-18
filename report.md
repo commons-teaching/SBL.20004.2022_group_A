@@ -91,22 +91,11 @@ A link to the final feature list (uploaded to github).
 
 Looking at the molecular network of our plants, it was possible to select some interesting metabolites which are
 
-![eucalyptol (1,8-cineol)](https://user-images.githubusercontent.com/103575088/169075234-0aabe2dd-647a-4b3c-b709-937c62896cdb.png)
+<img width="465" alt="eucalyptol" src="https://user-images.githubusercontent.com/103575088/169078425-c8e76817-19ce-415e-af5e-70a8df325a07.png">
 
-![eucalyptol_molecule](https://user-images.githubusercontent.com/103575088/169075265-4da2ea96-40cb-4400-a011-c52645e45d7e.png)
+<img width="470" alt="gardeninB" src="https://user-images.githubusercontent.com/103575088/169078454-9ec3eef1-49fb-454e-8f9b-80d7cc589eac.png">
 
-
-
-
-![gardeninB](https://user-images.githubusercontent.com/103575088/169075309-9989cac5-856d-42af-8bad-4062066e1c61.png)
-
-<img width="315" alt="gardeninB_molecule" src="https://user-images.githubusercontent.com/103575088/169075321-e224f9db-bae5-4a68-8293-454cff6657e3.png">
-
-
-
-![hesperidin](https://user-images.githubusercontent.com/103575088/169075337-f2af8276-3e16-40da-a3ef-c9b3f2fe057a.png)
-
-<img width="309" alt="hesperidin_molecule" src="https://user-images.githubusercontent.com/103575088/169075346-485794e1-59bc-4816-840b-0949005ecd67.png">
+<img width="479" alt="hesperidin" src="https://user-images.githubusercontent.com/103575088/169078486-1f010162-18e1-433a-a1da-a50ea57c8f54.png">
 
 
 
