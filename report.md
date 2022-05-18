@@ -115,7 +115,21 @@ Before the representation of the found molecular network, the colour legend is r
 
 ![LC_Colors](https://user-images.githubusercontent.com/103575088/169083957-43d7d7c7-f745-44e7-aaa0-8f13541d2b83.png)
 
+And the colours correspond to the following samples: 
 
+1 = Allium ursinum
+
+2 = Lavandula angustifolia
+
+3 = Melissa officinalis
+
+4 = Mentha x peperita
+
+5 = Allium insubricum
+
+6 = Allium fistulosum
+
+7 = blanc (methanol)
 
 The following pictures represent the molecular network and some clusters of interest of the project
 
