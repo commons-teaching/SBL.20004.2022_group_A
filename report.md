@@ -72,6 +72,7 @@ The day of injection, the samples were putted in specific LC or GC glass tubes a
 ### Data treatment
 
 - Describe the software and parameters used.
+- GNPS Molecular Networking and Spectral Library Search : https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab&view=written_description
 
 ## Results
 GNPS job file link : https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab
