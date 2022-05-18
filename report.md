@@ -30,10 +30,15 @@ The samples were collected in the botanical garden of Fribourg, in date 13. 04. 
 
 
 Allium Fistulosum: https://www.inaturalist.org/observations/112942553
+
 Allium insubricum: https://www.inaturalist.org/observations/112942497
+
 Allium ursinum: https://www.inaturalist.org/observations/111308148
+
 Mentha x piperita https://www.inaturalist.org/observations/112942446
+
 Melissa officinalis: https://www.inaturalist.org/observations/112942402
+
 Lavandula angustifolia: https://www.inaturalist.org/observations/111309381
 
 Regarding the collection method, some leaves of each plant were cutted with a cutter and immediately immersed in liquid nitrogen, to froze the cells without breaking them and to shut down the metabolitic pathways as soon as possible. The samples were then stored at -80°C until sample preparation. 
