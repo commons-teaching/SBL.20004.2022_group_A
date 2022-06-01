@@ -13,8 +13,8 @@ Group A
 
 ## Introduction
 
-This project was started in March 2022, and at this point it was asked to think about a project to do during the following weeks. The first thing to do was to decide the plants to study, having a precise aim making the choice. Finally, it was decided to investigate 6 smelly plants, devided in two groups composed by 3 plants. The first group consisted on Allium ursinum, Allium insubricum and Allium fistulosum from the family of Amaryllidaceae and the second one on Mentha x piperita, Melissa officinalis and Lavandula angustifolia being part of the Lamiaceae family. One of the main aim of the project was to investigate if these two families of plants were correlated one with another, or if the metabolites produced by the plants were more similar among one family than between the two. Furthermore, a second aim of the project, was to study which extraction and analysis method was the best for our plants, trying to get a good protocol for future investigations. 
-Lamiaceae are known to produce a large and varied amount of essential oils, which are used in the pharmaceutical industry as well as in traditional and modern medicine. The main interest on these compounds is reposed on their antifungal, antibacterial, cytotoxic and antioxidant activities[^1]. Mentha L. species are of particular interest for their production of active compounds mainly from the monoterpenoids in essential oils and phenolic compounds classes. The essential oils composition is higly variable within Mentha L. species and are known to have antimicrobial, antispasmodic, carminative, antiviral and antioxidant activities. The interesting activity of phenolic compounds is mainly due to specific lipophilic flavanoid, which have antioxidant, antiulcer, cytoprotective, heptoprotective, cholagogue, chemopreventive, anti-inflammatory, and antidiabetogenic activities[^2]. In the other side, Amaryllidaceae are known to be medicinally active and thus be important for the pharmaceutical industry thanks to the production of pharmaceutically actives alkaloids (mainly galanthamine and lycorine). One of the most important activities of these alkaloids is their anti-acetylcholinesterase activity, being thus used for the Alzheimer’s disease treatment[^3]. Regarding the first purpose of this work, it was thus expected to find the compound listed abovefor the two groups. 
+This project was started in March 2022, and at this point it was asked to think about a project to do during the following weeks. The first thing to do was to decide the plants to study and finding a precise aim. Finally, it was decided to investigate 6 smelly plants, devided in two groups composed by 3 plants. The first group consisted of Allium ursinum, Allium insubricum and Allium fistulosum from the Amaryllidaceae family and the second one of Mentha x piperita, Melissa officinalis and Lavandula angustifolia being part of the Lamiaceae family. One of the main aim of the project was to investigate if these two families of plants were correlated one with another, or if the metabolites produced by the plants were more similar among one family than between the two. Furthermore, a second aim of the project, was to study which extraction and analysis method was the best for our plants, in the goal of finding a good protocol for future investigations.
+Lamiaceae are known to produce a large and varied amount of essential oils, which are used in the pharmaceutical industry as well as in traditional and modern medicine. The main interest on these compounds is reposed on their antifungal, antibacterial, cytotoxic and antioxidant activities[^1]. Mentha L. species are of particular interest for their active compounds production mainly from the monoterpenoids in essential oils and phenolic compounds classes. The essential oils composition is higly variable within Mentha L. species and are known to have antimicrobial, antispasmodic, carminative, antiviral and antioxidant activities. The interesting activity of phenolic compounds is mainly due to specific lipophilic flavanoid, which have antioxidant, antiulcer, cytoprotective, heptoprotective, cholagogue, chemopreventive, anti-inflammatory, and antidiabetogenic activities[^2]. In the other side, Amaryllidaceae are known to be medicinally active and thus be important for the pharmaceutical industry thanks to the production of pharmaceutically actives alkaloids (mainly galanthamine and lycorine). One of the most important activities of these alkaloids is their anti-acetylcholinesterase activity, being thus used as an Alzheimer’s disease treatment[^3]. Regarding the first purpose of this work, it was thus expected to find the compound listed abovefor the two groups. 
 Regarding the second purpose of the project, being the analysis of the best extraction and analysis method, liquid chromatography–tandem mass spectrometry (LC–MS-MS) is known be able to identify and measure a broader range of compounds compared to gas chromatography–mass spectrometry (GC–MS) with minimal sample preparation. Thus, regarding the second purpose, we expected to be able to see different types and amount of compounds using the two different protocols [^4]. 
 
 
@@ -24,8 +24,7 @@ In this subchapter, the material and the methods used during this project are li
 
 ### Sample collection
  
-
-The samples were collected in the botanical garden of Fribourg, in date 13. 04. 2022. The precise location of the collection of each sample is represented in the following picture, showing the 6 precise places. Furthermore, the links reported under the picture represent the specific links for the iNaturalist page of each collected plant. 
+The samples were collected in the botanical garden of Fribourg, on the 13th of April 2022. The precise location of the collection of each sample is represented in the following picture, showing the 6 precise places. Furthermore, the specific links for the iNaturalist page of each collected plant are reported under the location picture.
 
 
 <img width="1439" alt="Schermata 2022-05-18 alle 15 24 47" src="https://user-images.githubusercontent.com/103575088/169052258-60dbe46b-f98d-4073-b950-680b7cf3cf42.png">
@@ -43,23 +42,23 @@ Melissa officinalis: https://www.inaturalist.org/observations/112942402
 
 Lavandula angustifolia: https://www.inaturalist.org/observations/111309381
 
-Regarding the collection method, some leaves of each plant were cutted with a cutter and immediately immersed in liquid nitrogen, to froze the cells without breaking them and to shut down the metabolitic pathways as soon as possible. The samples were then stored at -80°C until sample preparation. 
+Regarding the collection method, some leaves of each plant were cut with a scalpel and immediately immersed in liquid nitrogen, to freeze the cells without breaking them and to shut down the metabolitic pathways as quickly as possible. The samples were then stored at -80°C until the preparation of the samples to then inject them. 
 
-For more informations about the 6 samples, see the following table on githib: https://github.com/commons-teaching/SBL.20004.2022_group_A/blob/main/observations-238518.csv
+For more information about the 6 samples, check the following table on githib: https://github.com/commons-teaching/SBL.20004.2022_group_A/blob/main/observations-238518.csv
 
 
 ### Sample preparation
 
-The frozen samples were taken out from the freezer and they were crumbled with a cold scissor, to enable better extraction. 
-For each plant, it was decided to extract with three different solvents: heptane and dichloromethane for samples for GC-MS analysis and methanol for samples for LC-MS analysis. 
-Around 200 mg of crumbled plant tissue were weighed and putted into a glass erlenmeyer flask and immediately covered with 20 mL of the given solvent; this procedure was used for all the samples and all the extraction solvents. 
+The frozen samples were taken out of the freezer and they were crumbled with scissors, to enable better extraction. 
+For each plant, it was decided to extract with three different solvents: heptane and dichloromethane for samples analyzed with GC-MS and methanol for samples analyzed with LC-MS. 
+Around 200 mg of crumbled plant tissues were weighed and put into a glass erlenmeyer flask for the 20 mL of the given solvent to be immediately incorporated; this procedure was used for all the samples and all the extraction solvents. 
 In the following table the exact weighted masses for each sample are reported:
 
 <img width="298" alt="Schermata 2022-05-18 alle 16 19 14" src="https://user-images.githubusercontent.com/103575088/169063944-849187d6-32a2-49e0-9bc6-83ed9d0f13fa.png">
 
-The erlenmeyer containing the solvents and the plant tissues were covered with an aliuminium foil to avoid excessive evaporation and shaked overnight under the fume hood. 
-The extracted samples were then filtered with filter paper and putted into small glass tubes, before being putted at -20°C until sample injection.
-The day of injection, the samples were putted in specific LC or GC glass tubes and injected in the machine. 
+The erlenmeyers containing the solvents and the plant tissues were covered with an aliuminium foil to avoid excessive evaporation and shaked overnight under the fume hood. 
+The extracted samples were then filtered with filter papers and put into small glass tubes, before being stored at -20°C until the sample injection.
+The day of injection, the samples were set in specific LC or GC glass tubes and injected in the machines. 
 
 ### LCMS Analysis
 
