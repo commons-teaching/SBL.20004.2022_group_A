@@ -87,8 +87,8 @@ The day of injection, the samples were putted in specific LC or GC glass tubes a
 - GNPS Molecular Networking and Spectral Library Search : https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab&view=written_description
 
 ## Results
-GNPS job file link : https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab
-
+GNPS job file link: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab
+Link to the GNPS identification table: https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab&view=view_all_annotations_DB 
 
 ### MS1
 
@@ -193,9 +193,6 @@ The following pictures represent the molecular network and some clusters of inte
 
 ![LC_Cytoscape_Network](https://user-images.githubusercontent.com/103575088/169084570-eff543ba-5f11-4fcf-aa54-0ff78c3993db.png)
 
-
-Link to the GNPS job.
-Link to the GNPS identification table.
 
 ## Conclusion
 Mentha x pipetita was found through LC-MS_MS analysis to produce monoterpenoids and phenolic compounds, such as eucalyptol (monoterpenoid), gardenin B (tetramethoxyflavone, being part of the pheolic compounds class) and hesperidin (flavonoid, being part of the phenolic compounds class), how described in the introduction section.  
