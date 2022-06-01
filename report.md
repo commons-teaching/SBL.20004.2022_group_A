@@ -73,13 +73,13 @@ The day of injection, the samples were putted in specific LC or GC glass tubes a
 
 ### LCMS Analysis
 
-- Describe the LC conditions
-- Describe the MS conditions
+- LC conditions that were used can be found in that document: https://github.com/commons-teaching/SBL.20004.2022/blob/f4c82d63d7b3d4821ee2f94c96139fb8b4aa7e07/lc_conditions.txt
+- MS conditions that were used can be found in that document: https://github.com/commons-teaching/SBL.20004.2022/blob/f4c82d63d7b3d4821ee2f94c96139fb8b4aa7e07/ms_conditions.txt
 
 ### GCMS Analysis
 
-- Describe the LC conditions
-- Describe the MS conditions
+- LC conditions that were used can be found in that document: https://github.com/commons-teaching/SBL.20004.2022/blob/f4c82d63d7b3d4821ee2f94c96139fb8b4aa7e07/lc_conditions.txt
+- MS conditions that were used can be found in that document: https://github.com/commons-teaching/SBL.20004.2022/blob/f4c82d63d7b3d4821ee2f94c96139fb8b4aa7e07/ms_conditions.txt
 
 ### Data treatment
 
@@ -87,8 +87,8 @@ The day of injection, the samples were putted in specific LC or GC glass tubes a
 - GNPS Molecular Networking and Spectral Library Search : https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab&view=written_description
 
 ## Results
-GNPS job file link: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab
-Link to the GNPS identification table: https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab&view=view_all_annotations_DB 
+- GNPS job file link: https://gnps.ucsd.edu/ProteoSAFe/status.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab
+- Link to the GNPS identification table: https://gnps.ucsd.edu/ProteoSAFe/result.jsp?task=99e8ef38b7fa4642888af4f49aa6b2ab&view=view_all_annotations_DB 
 
 ### MS1
 
