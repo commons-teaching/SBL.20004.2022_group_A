@@ -13,12 +13,14 @@ Group A
 
 ## Introduction
 
-This project was started in March 2022, and at this point it was asked to think about a project to do during the following weeks. 
-The first thing to do was to decide the plants to study, having a precise aim making the choice. Finally, it was decided to investigate 6 smelly plants, devided in two groups composed by 3 plants. The two groups were devided by family of plants, the first group containing Allium ursinum, Allium insubricum and allium fistulosum from the family of Amaryllidaceae and the second one containing Mentha x piperita, Melissa officinalis and Lavandula angustifolia being part of the Lamiaceae family. One of the main aim of the project was to investigate if these two families of plants were correlated one with another, or if the metabolites produced by the plants were more similar among one family than between the two. 
-Furthermore, a second aim of the project, was to study which extraction and analysis method was the best for our plants, trying to get a good protocol for future investigations.
+This project was started in March 2022, and at this point it was asked to think about a project to do during the following weeks. The first thing to do was to decide the plants to study, having a precise aim making the choice. Finally, it was decided to investigate 6 smelly plants, devided in two groups composed by 3 plants. The first group consisted on Allium ursinum, Allium insubricum and Allium fistulosum from the family of Amaryllidaceae and the second one on Mentha x piperita, Melissa officinalis and Lavandula angustifolia being part of the Lamiaceae family. One of the main aim of the project was to investigate if these two families of plants were correlated one with another, or if the metabolites produced by the plants were more similar among one family than between the two. Furthermore, a second aim of the project, was to study which extraction and analysis method was the best for our plants, trying to get a good protocol for future investigations. 
+Lamiaceae are known to produce a large and varied amount of essential oils, which are used in the pharmaceutical industry as well as in traditional and modern medicine. The main interest on these compounds is reposed on their antifungal, antibacterial, cytotoxic and antioxidant activities[^1]. Mentha L. species are of particular interest for their production of active compounds mainly from the monoterpenoids in essential oils and phenolic compounds classes. The essential oils composition is higly variable within Mentha L. species and are known to have antimicrobial, antispasmodic, carminative, antiviral and antioxidant activities. The interesting activity of phenolic compounds is mainly due to specific lipophilic flavanoid, which have antioxidant, antiulcer, cytoprotective, heptoprotective, cholagogue, chemopreventive, anti-inflammatory, and antidiabetogenic activities[^2]. In the other side, Amaryllidaceae are known to be medicinally active and thus be important for the pharmaceutical industry thanks to the production of pharmaceutically actives alkaloids (mainly galanthamine and lycorine). One of the most important activities of these alkaloids is their anti-acetylcholinesterase activity, being thus used for the Alzheimer’s disease treatment[^3]. Regarding the first purpose of this work, it was thus expected to find the compound listed abovefor the two groups. 
+Regarding the second purpose of the project, being the analysis of the best extraction and analysis method, liquid chromatography–tandem mass spectrometry (LC–MS-MS) is known be able to identify and measure a broader range of compounds compared to gas chromatography–mass spectrometry (GC–MS) with minimal sample preparation. Thus, regarding the second purpose, we expected to be able to see different types and amount of compounds using the two different protocols [^4]. 
+
 
 
 ## Material & Methods
+In this subchapter, the material and the methods used during this project are listed and explained in detail. Methods are reported in chronological order, from the sample collection until the data analysis.  
 
 ### Sample collection
  
@@ -55,12 +57,8 @@ In the following table the exact weighted masses for each sample are reported:
 
 <img width="298" alt="Schermata 2022-05-18 alle 16 19 14" src="https://user-images.githubusercontent.com/103575088/169063944-849187d6-32a2-49e0-9bc6-83ed9d0f13fa.png">
 
-The erlenmeyer containing the solvents and the plant tissues were covered with an aliuminium foil to avoid excessive evaporation and shaked overnight under the fume hood.
-![2d82a6a4-94b9-4e9a-954b-f0dc8f9b03b1](https://user-images.githubusercontent.com/103516398/171405647-a32f304b-c786-40ee-966c-7ef81e15fc2f.jpg)
-
+The erlenmeyer containing the solvents and the plant tissues were covered with an aliuminium foil to avoid excessive evaporation and shaked overnight under the fume hood. 
 The extracted samples were then filtered with filter paper and putted into small glass tubes, before being putted at -20°C until sample injection.
-![130d5b57-1180-4305-95fa-203ee08686ff](https://user-images.githubusercontent.com/103516398/171405676-6c54206f-b348-4fcb-bf22-f56904590bf0.jpg)
-
 The day of injection, the samples were putted in specific LC or GC glass tubes and injected in the machine. 
 
 ### LCMS Analysis
@@ -155,48 +153,43 @@ The following pictures represent the molecular network and some clusters of inte
 
 
 
-Overall Cytoscape Network for LC conditions :
-![LC_Cytoscape_Network](https://user-images.githubusercontent.com/103575088/169084570-eff543ba-5f11-4fcf-aa54-0ff78c3993db.png)
-
-
-
-
-Allium fistulosum network
 ![LC_Cytoscape_Network_Allium_fistulosum](https://user-images.githubusercontent.com/103575088/169084454-0cacd600-68a3-4d73-9d78-ac4e27c6d5d8.png)
 
 
 
 
-Allium insubricum network
+
 ![LC_Cytoscape_Network_Allium_insubricum](https://user-images.githubusercontent.com/103575088/169084470-ab34eb35-b354-45e5-9696-9c02a264bf55.png)
 
 
 
 
-Allium ursinum network
+
 ![LC_Cytoscape_Network_Allium_ursinum](https://user-images.githubusercontent.com/103575088/169084483-668fe150-7fcb-4b49-8f75-3955ebfb39bd.png)
 
 
 
 
-Lavandula augustifolia network
+
 ![LC_Cytoscape_Network_Lavandula_augustifolia](https://user-images.githubusercontent.com/103575088/169084499-db8aff8e-22cc-4ef4-a351-2e70cd04b626.png)
 
 
 
 
-Melissa officinalis network
+
 ![LC_Cytoscape_Network_Melissa_officinalis](https://user-images.githubusercontent.com/103575088/169084529-7ad57978-8ad4-4113-9909-3ca81129d08d.png)
 
 
 
 
-Mentha x piperita network
+
 ![LC_Cytoscape_Network_Mentha_x_piperita](https://user-images.githubusercontent.com/103575088/169084548-919b4f67-c60f-4386-84cd-9490334dec30.png)
 
 
 
 
+
+![LC_Cytoscape_Network](https://user-images.githubusercontent.com/103575088/169084570-eff543ba-5f11-4fcf-aa54-0ff78c3993db.png)
 
 
 Link to the GNPS job.
@@ -208,6 +201,7 @@ Some conclusion that you could get out of this preliminary study.
 
 # References
 
-Note that you can make a footnot like this [^1]
-
-[^1]: Ref X
+[^1]: Mamadalieva, Nilufar Z., Akramov, Davlat Kh., Böhmdorfer, Stefan, Azimova, Shahnoz S. and Rosenau, Thomas. "Extractives and biological activities of Lamiaceae species growing in Uzbekistan" Holzforschung, vol. 74, no. 2, 2020, pp. 96-115. 
+[^2]: Mimica-Dukic N, Bozin B. Mentha L. species (Lamiaceae) as promising sources of bioactive secondary metabolites. Curr Pharm Des. 2008;14(29):3141-50. 
+[^3]: Georgiev, V., Ivanov, I., & Pavlov, A. (2020). Recent Progress in Amaryllidaceae Biotechnology. Molecules (Basel, Switzerland), 25(20), 4670.
+[^4]: Perez ER, Knapp JA, Horn CK, Stillman SL, Evans JE, Arfsten DP. Comparison of LC-MS-MS and GC-MS Analysis of Benzodiazepine Compounds Included in the Drug Demand Reduction Urinalysis Program. J Anal Toxicol. 2016;40(3):201-207.
