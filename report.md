@@ -55,8 +55,12 @@ In the following table the exact weighted masses for each sample are reported:
 
 <img width="298" alt="Schermata 2022-05-18 alle 16 19 14" src="https://user-images.githubusercontent.com/103575088/169063944-849187d6-32a2-49e0-9bc6-83ed9d0f13fa.png">
 
-The erlenmeyer containing the solvents and the plant tissues were covered with an aliuminium foil to avoid excessive evaporation and shaked overnight under the fume hood. 
+The erlenmeyer containing the solvents and the plant tissues were covered with an aliuminium foil to avoid excessive evaporation and shaked overnight under the fume hood.
+![2d82a6a4-94b9-4e9a-954b-f0dc8f9b03b1](https://user-images.githubusercontent.com/103516398/171405647-a32f304b-c786-40ee-966c-7ef81e15fc2f.jpg)
+
 The extracted samples were then filtered with filter paper and putted into small glass tubes, before being putted at -20°C until sample injection.
+![130d5b57-1180-4305-95fa-203ee08686ff](https://user-images.githubusercontent.com/103516398/171405676-6c54206f-b348-4fcb-bf22-f56904590bf0.jpg)
+
 The day of injection, the samples were putted in specific LC or GC glass tubes and injected in the machine. 
 
 ### LCMS Analysis
