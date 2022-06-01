@@ -114,7 +114,7 @@ Mentha x piperita: Eucalyptol
 
 <img width="465" alt="eucalyptol" src="https://user-images.githubusercontent.com/103575088/169078425-c8e76817-19ce-415e-af5e-70a8df325a07.png">
 
-Eucalyptol has been found in Mentha x piperita, and it's a monoterpenoid with a spicy, cooling taste which makes this compound used in the industry in flavorings, fragrances, and cosmetics. Eucalyptol has been used also used in traditional medicine as a cough suppressant. It is commonly found in the Eucalyptus genus of the Myrtaceae family. [^5].
+Eucalyptol has been found in Mentha x piperita, and it's a monoterpenoid with a spicy, cooling taste which makes this compound used in the industry in flavorings, fragrances, and cosmetics. Eucalyptol has been used also used in traditional medicine as a cough suppressant. It is commonly found in the Eucalyptus genus of the Myrtaceae family. [^9].
 
 
 
@@ -122,7 +122,7 @@ Mentha x piperita: Gardenin B
 
 <img width="470" alt="gardeninB" src="https://user-images.githubusercontent.com/103575088/169078454-9ec3eef1-49fb-454e-8f9b-80d7cc589eac.png">
 
-Gardenin B has been found in Mentha x piperita, and it's a flavonoid lipid molecule (tetramethoxyflavone) being part of the phenolic compounds class. This compound is commonly found in mandarin orange, peppermint, sweet basil and other plants, making gardenin B  a potential biomarker for the consumption of these food products [^6]. Gardenin B is also known to be able to induces cell death in human leukemia cells [^7]. 
+Gardenin B has been found in Mentha x piperita, and it's a flavonoid lipid molecule (tetramethoxyflavone) being part of the phenolic compounds class. This compound is commonly found in mandarin orange, peppermint, sweet basil and other plants, making gardenin B  a potential biomarker for the consumption of these food products [^10]. Gardenin B is also known to be able to induces cell death in human leukemia cells [^11]. 
 
 
 
@@ -130,7 +130,7 @@ Mentha x piperita: Hesperidin
 
 <img width="479" alt="hesperidin" src="https://user-images.githubusercontent.com/103575088/169078486-1f010162-18e1-433a-a1da-a50ea57c8f54.png">
 
-Hesperidin has been found in Mentha x piperita, and it's classified as bioflavonoid, mainly known and used in medicine to helps blood vessels function better (in case of hemorrhoids, varicose veins, and poor circulation) and to reduce inflammations. This compound is commonly found in citrus fruits [^8].
+Hesperidin has been found in Mentha x piperita, and it's classified as bioflavonoid, mainly known and used in medicine to helps blood vessels function better (in case of hemorrhoids, varicose veins, and poor circulation) and to reduce inflammations. This compound is commonly found in citrus fruits [^12].
 
 
 Regarding the Amaryllidaceae family, no compounds were identified in all three plants that were not also in common with the Lamiaceae family, but some were found in common between two of the three Allium. These compounds, unfortunately, had no identification. It was therefore decided to look for a compound of interest within each plant. The results are reported below. 
@@ -228,8 +228,12 @@ Mentha x pipetita was found through LC-MS_MS analysis to produce monoterpenoids 
 [^2]: Mimica-Dukic N, Bozin B. Mentha L. species (Lamiaceae) as promising sources of bioactive secondary metabolites. Curr Pharm Des. 2008;14(29):3141-50. 
 [^3]: Georgiev, V., Ivanov, I., & Pavlov, A. (2020). Recent Progress in Amaryllidaceae Biotechnology. Molecules (Basel, Switzerland), 25(20), 4670.
 [^4]: Perez ER, Knapp JA, Horn CK, Stillman SL, Evans JE, Arfsten DP. Comparison of LC-MS-MS and GC-MS Analysis of Benzodiazepine Compounds Included in the Drug Demand Reduction Urinalysis Program. J Anal Toxicol. 2016;40(3):201-207.
-[^5]: https://en.wikipedia.org/wiki/Eucalyptus_rossii, visited in data 1.06.2022. 
-[^6]: https://foodb.ca/compounds/FDB002752, visited in data 1.06.2022. 
-[^7]: https://www.medchemexpress.com/gardenin-b.html, visited in data 1.06.2022. 
-[^8]: https://www.webmd.com/vitamins/ai/ingredientmono-1033/hesperidin, visited in data 1.06.2022.
-[]: T. Pluskal, S. Castillo, A. Villar-Briones, M. Orešič, MZmine 2: Modular framework for processing, visualizing, and analyzing mass spectrometry-based molecular profile data, BMC Bioinformatics 11:395 (2010).
+[^5]: T. Pluskal, S. Castillo, A. Villar-Briones, M. Orešič, MZmine 2: Modular framework for processing, visualizing, and analyzing mass spectrometry-based molecular profile data, BMC Bioinformatics 11:395 (2010).
+[^6]: https://it.wikipedia.org/wiki/FileZilla, visited in data 1.06.2022.
+[^7]:https://ccms-ucsd.github.io/GNPSDocumentation/cytoscape/, visited in data 1.06.2022. 
+[^8]:https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp, visited in data 1.06.2022. 
+[^9]: https://en.wikipedia.org/wiki/Eucalyptus_rossii, visited in data 1.06.2022. 
+[^10]: https://foodb.ca/compounds/FDB002752, visited in data 1.06.2022. 
+[^11]: https://www.medchemexpress.com/gardenin-b.html, visited in data 1.06.2022. 
+[^12]: https://www.webmd.com/vitamins/ai/ingredientmono-1033/hesperidin, visited in data 1.06.2022.
+
