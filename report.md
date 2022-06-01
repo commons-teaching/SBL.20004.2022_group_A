@@ -136,6 +136,22 @@ Hesperidin has been found in Mentha x piperita, and it's classified as bioflavon
 Regarding the Amaryllidaceae family, no compounds were identified in all three plants that were not also in common with the Lamiaceae family, but some were found in common between two of the three Allium. These compounds, unfortunately, had no identification. It was therefore decided to look for a compound of interest within each plant. The results are reported below. 
 
 
+A spectral match to D-fructose was found only in Allium ursinum. However, it is a bit weird that such a supposedely ubiquitous compound was found only in Allium ursinum and not in the other plants.
+![D-fructose_Allium_ursinum](https://user-images.githubusercontent.com/103576860/171428083-f36f1a51-2c2c-4113-9a9f-88841f26344c.png)
+
+Herniarin was found specifically in Lavandula augustifolia.
+![Herniarin_Lavandula_augustifolia](https://user-images.githubusercontent.com/103576860/171444954-a64cb57a-27c2-42dc-b1f8-2821500c06aa.png)
+
+
+In Melissa officinalis, we could detect (3S)-3-(3,4-dihydroxyphenyl)-6,8-dihydroxy-2,3-dihydrochromen-4-one
+![Melissa_officinalis_(3S)-3-(3,4-dihydroxyphenyl)-6,8-dihydroxy-2,3-dihydrochromen-4-one](https://user-images.githubusercontent.com/103576860/171436076-e349cf19-3c3f-4715-a7c8-0b2881dc7a21.png)
+
+Some compounds were only found in Allium insubricum. However, since there is no match in the databases, we are unable to show them here.
+
+The same happened for Allium fistulosum.
+
+Some compounds were only found in the Lamiaceae, such as caffeic acid. It is an hydroxycinnamic acid derivative and polyphenol, with potential anti-oxidant, anti-inflammatory, and antineoplastic activities. This compound is produced by a very wide range of species, including Allium fistulosum. However, we didn't detect it in our samples for Allium fistulosum.
+![Caffeic_acid_Lamiaceae](https://user-images.githubusercontent.com/103576860/171444531-e1f8be20-a9ae-47f9-9695-76dcdf76162d.png)
 
 
 
