@@ -63,8 +63,7 @@ In the following table the exact weighted masses for each sample are reported:
 
 The erlenmeyer containing the solvents and the plant tissues were covered with an aliuminium foil to avoid excessive evaporation and shaked overnight under the fume hood (samples represented in the figure below). 
 
-
-![PHOTO-2022-04-27-17-25-33](https://user-images.githubusercontent.com/103575088/171425296-11b56c3d-5b1b-4049-ac0b-a9d829dd6fcd.jpg)
+<img width="912" alt="Schermata 2022-06-01 alle 16 17 42" src="https://user-images.githubusercontent.com/103575088/171426440-2baaa292-a0aa-4515-8835-bcc4036e8ae4.png">
 
 
 
