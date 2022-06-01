@@ -62,16 +62,19 @@ The day of injection, the samples were set in specific LC or GC glass tubes and 
 
 ### LCMS Analysis
 
-- Describe the LC conditions
-
+The LC conditions can be found when using this link:
 https://github.com/commons-teaching/SBL.20004.2022/blob/f4c82d63d7b3d4821ee2f94c96139fb8b4aa7e07/lc_conditions.txt
 
-- Describe the MS conditions
+The MS conditions can be found when using this link:
+https://github.com/commons-teaching/SBL.20004.2022/blob/f4c82d63d7b3d4821ee2f94c96139fb8b4aa7e07/ms_conditions.txt
 
 ### GCMS Analysis
 
-- Describe the LC conditions
-- Describe the MS conditions
+The LC conditions can be found when using this link:
+https://github.com/commons-teaching/SBL.20004.2022/blob/f4c82d63d7b3d4821ee2f94c96139fb8b4aa7e07/lc_conditions.txt
+
+The MS conditions can be found when using this link:
+https://github.com/commons-teaching/SBL.20004.2022/blob/f4c82d63d7b3d4821ee2f94c96139fb8b4aa7e07/ms_conditions.txt
 
 ### Data treatment
 
