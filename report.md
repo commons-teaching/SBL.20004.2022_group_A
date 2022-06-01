@@ -98,13 +98,17 @@ A link to the final feature list (uploaded to github).
 Looking at the molecular network of our plants, it was possible to observe that compounds of the plants from the two different groups are mainly clustered within the family than between the two families. The most part of compounds that are in common between the plants of the two families, are mainly primary metabolites, such as glutamate, sucrose and others, which brought to the conclusion that the interesting produced compounds (as secondary metabolites used in pharmaceutical or food industry) are shared more within the same family than between the two families. Some interesting compounds have been chosen for each family and each plant, and are represented below. Furthermore, comparing the total number of detected compounds within the two families, it was observed that a larger number of compounds were detected in plants of the Lamiaceae family than in the ones of the Amaryllidaceae family. 
 
 
-Regarding the Lamiaceae family, it has been decided to represent one compound which has been found in 
+Regarding the Lamiaceae family, the following compound has been found within all the 3 plants, but not in the Amaryllidaceae ones. 
+
+
+
 
 Mentha x piperita: Eucalyptol
 
 <img width="465" alt="eucalyptol" src="https://user-images.githubusercontent.com/103575088/169078425-c8e76817-19ce-415e-af5e-70a8df325a07.png">
 
 Eucalyptol has been found in Mentha x piperita, and it's a monoterpenoid with a spicy, cooling taste which makes this compound used in the industry in flavorings, fragrances, and cosmetics. Eucalyptol has been used also used in traditional medicine as a cough suppressant. It is commonly found in the Eucalyptus genus of the Myrtaceae family. [^5].
+
 
 
 Mentha x piperita: Gardenin B
@@ -120,6 +124,12 @@ Mentha x piperita: Hesperidin
 <img width="479" alt="hesperidin" src="https://user-images.githubusercontent.com/103575088/169078486-1f010162-18e1-433a-a1da-a50ea57c8f54.png">
 
 Hesperidin has been found in Mentha x piperita, and it's classified as bioflavonoid, mainly known and used in medicine to helps blood vessels function better (in case of hemorrhoids, varicose veins, and poor circulation) and to reduce inflammations. This compound is commonly found in citrus fruits [^8].
+
+
+Regarding the Amaryllidaceae family, the following compound has been found within all the 3 plants, but not in the Lamiaceae ones. 
+
+
+
 
 
 
@@ -193,8 +203,10 @@ The following pictures represent the molecular network and some clusters of inte
 ![LC_Cytoscape_Network](https://user-images.githubusercontent.com/103575088/169084570-eff543ba-5f11-4fcf-aa54-0ff78c3993db.png)
 
 
-Link to the GNPS job.
-Link to the GNPS identification table.
+#### GC-MS
+Regarding the GC-MS analysis, which was made comparing two extraction methods (dichloromethane and heptane), only a superficial analysis was made looking at the spectra and at the list of the detected compounds. The spectra showed that the protocol for GC-MS (which differs from the LC-MS one for the extraction method and the analysis) seems to allow a worst detection of compounds, showing less peaks. Looking at the compounds list, it was observed that the extraction method seems to have an influence on the compounds deteaction, since looking at the compounds found within the same plant, but extracted with the two different methods, differences in detection were found. Heptane in general seemed to be able to better extract plant compounds, compared to dichloromethane. To be able to conclude which extraction and analysis method is the best for plant compounds characterization, it will be necessary to better and deeper investigate the GC-MS results and to do a detailed comparison between the protocols.    
+
+
 
 ## Conclusion
 Mentha x pipetita was found through LC-MS_MS analysis to produce monoterpenoids and phenolic compounds, such as eucalyptol (monoterpenoid), gardenin B (tetramethoxyflavone, being part of the pheolic compounds class) and hesperidin (flavonoid, being part of the phenolic compounds class), how described in the introduction section.  
