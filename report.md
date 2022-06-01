@@ -184,46 +184,37 @@ Before the representation of the found molecular network, the colour legend is r
 
 The following pictures represent the molecular network and some clusters of interest of the project
 
+Overall Cytoscape network :
+![LC_Cytoscape_Network](https://user-images.githubusercontent.com/103575088/169084570-eff543ba-5f11-4fcf-aa54-0ff78c3993db.png)
 
-
-
+Allium fistulosum network :
 ![LC_Cytoscape_Network_Allium_fistulosum](https://user-images.githubusercontent.com/103575088/169084454-0cacd600-68a3-4d73-9d78-ac4e27c6d5d8.png)
 
 
-
-
-
+Allium insubricum network :
 ![LC_Cytoscape_Network_Allium_insubricum](https://user-images.githubusercontent.com/103575088/169084470-ab34eb35-b354-45e5-9696-9c02a264bf55.png)
 
 
-
-
-
+Allium ursinum network :
 ![LC_Cytoscape_Network_Allium_ursinum](https://user-images.githubusercontent.com/103575088/169084483-668fe150-7fcb-4b49-8f75-3955ebfb39bd.png)
 
 
-
-
-
+Lavandula augustifolia network :
 ![LC_Cytoscape_Network_Lavandula_augustifolia](https://user-images.githubusercontent.com/103575088/169084499-db8aff8e-22cc-4ef4-a351-2e70cd04b626.png)
 
 
-
-
-
+Melissa officinalis network :
 ![LC_Cytoscape_Network_Melissa_officinalis](https://user-images.githubusercontent.com/103575088/169084529-7ad57978-8ad4-4113-9909-3ca81129d08d.png)
 
 
-
-
-
+Mentha x peperita network :
 ![LC_Cytoscape_Network_Mentha_x_piperita](https://user-images.githubusercontent.com/103575088/169084548-919b4f67-c60f-4386-84cd-9490334dec30.png)
 
 
 
 
 
-![LC_Cytoscape_Network](https://user-images.githubusercontent.com/103575088/169084570-eff543ba-5f11-4fcf-aa54-0ff78c3993db.png)
+
 
 
 #### GC-MS
