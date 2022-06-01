@@ -113,7 +113,8 @@ A spectral match to D-fructose was found only in Allium ursinum. However, it is 
 ![D-fructose_Allium_ursinum](https://user-images.githubusercontent.com/103576860/171428083-f36f1a51-2c2c-4113-9a9f-88841f26344c.png)
 
 Herniarin was found specifically in Lavandula augustifolia.
-![Herniarin_Lavandula_augustifolia](https://user-images.githubusercontent.com/103576860/171432685-9183a138-a85e-4466-8634-ddfaf1756a8f.png)
+![Herniarin_Lavandula_augustifolia](https://user-images.githubusercontent.com/103576860/171444954-a64cb57a-27c2-42dc-b1f8-2821500c06aa.png)
+
 
 In Melissa officinalis, we could detect (3S)-3-(3,4-dihydroxyphenyl)-6,8-dihydroxy-2,3-dihydrochromen-4-one
 ![Melissa_officinalis_(3S)-3-(3,4-dihydroxyphenyl)-6,8-dihydroxy-2,3-dihydrochromen-4-one](https://user-images.githubusercontent.com/103576860/171436076-e349cf19-3c3f-4715-a7c8-0b2881dc7a21.png)
