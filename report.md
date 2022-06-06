@@ -238,19 +238,19 @@ As a general conclusion, the results of this project showed that the extraction 
 
 ## References
 ### Footnotes
-[^1]: Mamadalieva, Nilufar Z., Akramov, Davlat Kh., Böhmdorfer, Stefan, Azimova, Shahnoz S. and Rosenau, Thomas. "Extractives and biological activities of Lamiaceae species growing in Uzbekistan" Holzforschung, vol. 74, no. 2, 2020, pp. 96-115. ↩
-[^2]: Mimica-Dukic N, Bozin B. Mentha L. species (Lamiaceae) as promising sources of bioactive secondary metabolites. Curr Pharm Des. 2008;14(29):3141-50. ↩
-[^3]: Georgiev, V., Ivanov, I., & Pavlov, A. (2020). Recent Progress in Amaryllidaceae Biotechnology. Molecules (Basel, Switzerland), 25(20), 4670. ↩
-[^4]: Perez ER, Knapp JA, Horn CK, Stillman SL, Evans JE, Arfsten DP. Comparison of LC-MS-MS and GC-MS Analysis of Benzodiazepine Compounds Included in the Drug Demand Reduction Urinalysis Program. J Anal Toxicol. 2016;40(3):201-207. ↩
-[^5]: T. Pluskal, S. Castillo, A. Villar-Briones, M. Orešič, MZmine 2: Modular framework for processing, visualizing, and analyzing mass spectrometry-based molecular profile data, BMC Bioinformatics 11:395 (2010). ↩
-[^6]: https://it.wikipedia.org/wiki/FileZilla, visited in data 1.06.2022. ↩
-[^7]: https://ccms-ucsd.github.io/GNPSDocumentation/cytoscape/, visited in data 1.06.2022. ↩
-[^8]: https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp, visited in data 1.06.2022. ↩
+[^1]: Mamadalieva, Nilufar Z., Akramov, Davlat Kh., Böhmdorfer, Stefan, Azimova, Shahnoz S. and Rosenau, Thomas. "Extractives and biological activities of Lamiaceae species growing in Uzbekistan" Holzforschung, vol. 74, no. 2, 2020, pp. 96-115. 
+[^2]: Mimica-Dukic N, Bozin B. Mentha L. species (Lamiaceae) as promising sources of bioactive secondary metabolites. Curr Pharm Des. 2008;14(29):3141-50. 
+[^3]: Georgiev, V., Ivanov, I., & Pavlov, A. (2020). Recent Progress in Amaryllidaceae Biotechnology. Molecules (Basel, Switzerland), 25(20), 4670. 
+[^4]: Perez ER, Knapp JA, Horn CK, Stillman SL, Evans JE, Arfsten DP. Comparison of LC-MS-MS and GC-MS Analysis of Benzodiazepine Compounds Included in the Drug Demand Reduction Urinalysis Program. J Anal Toxicol. 2016;40(3):201-207. 
+[^5]: T. Pluskal, S. Castillo, A. Villar-Briones, M. Orešič, MZmine 2: Modular framework for processing, visualizing, and analyzing mass spectrometry-based molecular profile data, BMC Bioinformatics 11:395 (2010). 
+[^6]: https://it.wikipedia.org/wiki/FileZilla, visited in data 1.06.2022. 
+[^7]: https://ccms-ucsd.github.io/GNPSDocumentation/cytoscape/, visited in data 1.06.2022. 
+[^8]: https://gnps.ucsd.edu/ProteoSAFe/static/gnps-splash.jsp, visited in data 1.06.2022. 
 [^9]: https://pubchem.ncbi.nlm.nih.gov/compound/689043, visited in data 2.06.2022. 
-[^10]: https://en.wikipedia.org/wiki/Eucalyptus_rossii, visited in data 1.06.2022. ↩
-[^11]: https://foodb.ca/compounds/FDB002752, visited in data 1.06.2022. ↩
-[^12]: https://www.medchemexpress.com/gardenin-b.html, visited in data 1.06.2022. ↩
-[^13]: https://www.webmd.com/vitamins/ai/ingredientmono-1033/hesperidin, visited in data 1.06.2022. ↩
+[^10]: https://en.wikipedia.org/wiki/Eucalyptus_rossii, visited in data 1.06.2022. 
+[^11]: https://foodb.ca/compounds/FDB002752, visited in data 1.06.2022. 
+[^12]: https://www.medchemexpress.com/gardenin-b.html, visited in data 1.06.2022. 
+[^13]: https://www.webmd.com/vitamins/ai/ingredientmono-1033/hesperidin, visited in data 1.06.2022. 
 [^14]: https://pubchem.ncbi.nlm.nih.gov/compound/10748, visited in data 2.06.2022. 
 [^15]: https://en.wikipedia.org/wiki/Herniarin, visited in data 2.06.2022.  
 [^16]: Jean M. Bokelmann MD, in Medicinal Herbs in Primary Caée, 2022.
