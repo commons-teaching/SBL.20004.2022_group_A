@@ -1,4 +1,4 @@
-# Metabolomics analysis report: Investigation of similitudes and differences between Amaryllidaceae and Lamiaceae families
+# Metabolomics analysis report: Investigation of similarities and differences between Amaryllidaceae and Lamiaceae families
 SBL.20004 
 
 18.05.2022
@@ -15,8 +15,7 @@ Group A
 ## Introduction
 
 This metabolomic project started in March 2022, and at this point it was asked to think about a project to do during the following weeks. The first thing was to decide which plants to study, and to find a precise aim and angle. In the end, it was decided to investigate 6 smelly plants, divided in two groups, each composed of 3 plants. The first group consisted of Allium ursinum, Allium insubricum and Allium fistulosum from the Amaryllidaceae family, and the second one of Mentha x piperita, Melissa officinalis and Lavandula angustifolia, which are part of the Lamiaceae family. One of the main goals of the project was to investigate if these two families of plants were chemically correlated one with another, and to see if the metabolites produced by the plants were more similar among one family than between the two. Furthermore, a second aim of the project was to study which extraction and analysis method was the best for the investigation of our plants' metabolites. 
-Lamiaceae are known to produce a large and varied amount of essential oils, which are used in the pharmaceutical industry as well as in traditional and modern medicine. The main interest on these compounds is reposed on their antifungal, antibacterial, cytotoxic and antioxidant activities[^1]. Mentha L. species are of particular interest for their production of active compounds mainly from the monoterpenoids - found in essential oils - and phenolic compounds classes. The essential oils composition is highly variable within Mentha L. species and are known to have antimicrobial, antispasmodic, carminative, antiviral and antioxidant activities. The interesting activity of phenolic compounds is mainly due to specific lipophilic flavonoid, which have antioxidant, antiulcer, cytoprotective, hepatoprotective, chemopreventive, anti-inflammatory, and antidiabetogenic activities[^2]. On the other side, Amaryllidaceae are known to be medicinally active and thus are important for the pharmaceutical industry, thanks to the production of pharmaceutically active alkaloids (mainly galanthamine and lycorine). One of the most important activities of these alkaloids is their anti-acetylcholinesterase activity, and are therefore used as Alzheimer's disease treatments[^3]. Regarding the first purpose of this work, it was expected to find some of compounds listed above for the two groups and to see a correlation between the families or within the families. 
-Regarding the second purpose of the project, the analysis of the best extraction and analysis method, liquid chromatography–tandem mass spectrometry (LC–MS-MS) is known be able to identify and measure a broader range of compounds compared to gas chromatography–mass spectrometry (GC–MS) with minimal sample preparation. Thus, we expected to be able to see different types of compounds with varying quantities using the two different protocols[^4].
+Lamiaceae are known to produce a large and varied amount of essential oils, which are used in the pharmaceutical industry as well as in traditional and modern medicine. The main interest on these compounds is reposed on their antifungal, antibacterial, cytotoxic and antioxidant activities[^1]. Mentha L. species are of particular interest for their production of active compounds mainly from the monoterpenoids - found in essential oils - and phenolic compounds classes. The essential oils composition is highly variable within Mentha L. species and are known to have antimicrobial, antispasmodic, carminative, antiviral and antioxidant activities. The interesting activity of phenolic compounds is mainly due to specific lipophilic flavonoid, which have antioxidant, antiulcer, cytoprotective, hepatoprotective, chemopreventive, anti-inflammatory, and antidiabetogenic activities[^2]. On the other side, Amaryllidaceae are known to be medicinally active and thus are important for the pharmaceutical industry, thanks to the production of pharmaceutically active alkaloids (mainly galanthamine and lycorine). One of the most important activities of these alkaloids is their anti-acetylcholinesterase activity, and are therefore used as Alzheimer's disease treatments[^3]. Regarding the first purpose of this work, it was expected to find some of compounds listed above for the two groups of plants and to see a correlation between the families or within the families. Regarding the second purpose of the project, i.e. the analysis of the best extraction and analysis method, liquid chromatography–tandem mass spectrometry (LC–MS-MS) is known to be generally able to identify and measure a broader range of compounds with minimal sample preparation compared to gas chromatography–mass spectrometry (GC–MS). Thus, we expected to be able to see different types of compounds with varying quantities using the two different protocols[^4].
 
 
 
@@ -55,10 +54,9 @@ For more information about the 6 samples, check the following table on githib: h
 
 ### Sample preparation
 
-The frozen samples were taken out from the freezer and they were crumbled with scissors, to enable better extraction. For each plant, it was decided to extract with three different solvents: heptane and dichloromethane for GC-MS samples, and methanol for LC-MS samples. Around 200 mg of crumbled plant tissue were weighed and put into a glass erlenmeyer flask to be then immediately covered with 20 mL of the given solvent; this procedure was used for all the samples and all the extraction solvents.
-In the following table the exact weighted masses for each sample are reported:
+The frozen samples were taken out from the freezer and they were crumbled with scissors, to enable better extraction thanks to a bigger solvent-exposed surface. For each plant, it was decided to extract with three different solvents: heptane and dichloromethane for GC-MS samples, and methanol for LC-MS samples. Around 200 mg of crumbled plant tissue were weighed and put into a glass erlenmeyer flask to be then immediately covered with 20 mL of the given solvent; this procedure was used for all the samples and all the extraction solvents. In the following table the exact weighted masses for each sample are reported:
 
-<img width="298" alt="Schermata 2022-05-18 alle 16 19 14" src="https://user-images.githubusercontent.com/103575088/169063944-849187d6-32a2-49e0-9bc6-83ed9d0f13fa.png">
+![image](https://user-images.githubusercontent.com/103576860/172247546-f1f219e5-8948-47c6-b7ef-e654ea934679.png)
 
 The erlenmeyers containing the solvents and the plant tissues were covered with an aluminium foil to avoid excessive evaporation, and were shaken overnight under the fume hood (samples shown in the picture below).
 
@@ -99,7 +97,7 @@ Regarding GC-MS 70 features were identified, in contrast to the 247 of LC-MS, ou
 
 When analysing the number of compounds detected in the 6 different plants, it was observed that many more features were detected in the Lamiaceae family compared to the ones found in the Amaryllidaceae plants, as reported in the table below. While looking at the number of peaks which had structural identification, it was observed that a higher percentage of structural identification was found in plants of the Lamiaceae family compared to those found in the Amaryllidaceae family. Thus, the identification of compounds specifically produced by Amaryllidaceae was complicated and only partially successful, as reported below.
 
-![image](https://user-images.githubusercontent.com/103576860/172204396-31fcabd2-e95e-471b-bf9b-acf2e5cf4ab0.png)
+![image](https://user-images.githubusercontent.com/103576860/172247670-d4326972-7dbe-49a9-9a63-0b7c001f1445.png)
 
 When looking at the molecular network of our plants (found at the end of the results section), it was possible to observe that compounds of the plants from the two different groups were mainly clustered within the family rather than between the two families. The majority of common compounds between the two families were primary metabolites, such as glutamate, sucrose and others, which brought us to the hypothesis that the interesting produced compounds (such as secondary metabolites used in pharmaceutical or food industry) may be mainly shared within the same family rather than between the two families. Some interesting compounds have been chosen to be described for each family and each plant, and are represented below. They are accompanied by their mirror match spectrum (in black are the occurrences detected in our samples, while their green counterpart are the database correspondence of these occurrences) and their 2-D structure.
 
@@ -107,14 +105,14 @@ When looking at the molecular network of our plants (found at the end of the res
 
 Some compounds were only found in the 3 plants of the Lamiaceae family but in none of the Amaryllidaceae ones. An example is caffeic acid, whose spectrum is represented below. 
 
-![image](https://user-images.githubusercontent.com/103576860/172204711-3f1b2ee7-7785-4bd0-901b-3d434634ffba.png)
+![image](https://user-images.githubusercontent.com/103576860/172247696-b3296e92-9e9b-4851-8b3b-dd09a8804384.png)
 
 Caffeic acid is an hydroxycinnamic acid derivative and polyphenol, with potential antioxidant, anti-inflammatory, and antineoplastic activities. This compound is known to be produced by a very wide range of species, including Allium fistulosum. However, in our Allium fistulosum sample it wasn’t detected[^9]. 
 
 
 Mentha x piperita: Eucalyptol
 
-<img width="465" alt="eucalyptol" src="https://user-images.githubusercontent.com/103575088/169078425-c8e76817-19ce-415e-af5e-70a8df325a07.png">
+![image](https://user-images.githubusercontent.com/103576860/172247719-aab6373e-2372-4b55-9c48-c809b962abee.png)
 
 Eucalyptol has been found in Mentha x piperita, and it's a monoterpenoid with a spicy, cooling taste which makes this compound used in the industry in flavorings, fragrances, and cosmetics. Eucalyptol has been used also used in traditional medicine as a cough suppressant. It is commonly found in the Eucalyptus genus of the Myrtaceae family. [^9].
 
@@ -122,13 +120,13 @@ Compounds specifically produced by each Lamiaceae plant have been investigated, 
 
 Since Mentha x piperita is known to produce a wide range of interesting medicinal compounds, it has been decided to represent and describe 3 compounds specifically produced by mint, the first one being eucalyptol, whose spectrum is represented below. 
 
-![image](https://user-images.githubusercontent.com/103576860/172205714-fe1145b5-103c-4265-ba7b-c5f6d9a50488.png)
+![image](https://user-images.githubusercontent.com/103576860/172247778-f9000650-286a-4cf4-b17b-9697caed8a10.png)
 
 Eucalyptol is a monoterpenoid with a spicy, cooling taste which engendered this compound to be used in flavourings, fragrances, and cosmetics industries. Eucalyptol has been also used in traditional medicine as a cough suppressant. It is commonly found in the Eucalyptus genus of the Myrtaceae family [^10].
 
 A second compound which has been found to be specifically produced by Mentha x piperita is gardenin B, represented below.
 
-<img width="470" alt="gardeninB" src="https://user-images.githubusercontent.com/103575088/169078454-9ec3eef1-49fb-454e-8f9b-80d7cc589eac.png">
+[<img width="470" alt="gardeninB" src="https://user-images.githubusercontent.com/103575088/169078454-9ec3eef1-49fb-454e-8f9b-80d7cc589eac.png">](https://user-images.githubusercontent.com/103575088/169078454-9ec3eef1-49fb-454e-8f9b-80d7cc589eac.png)
 
 Gardenin B is a flavonoid lipid molecule (tetramethoxyflavone) being part of the phenolic compounds class. This compound is commonly found in mandarin, oranges, peppermint, sweet basil and other plants, making gardenin B a potential biomarker for the consumption of these food products[^11]. Gardenin B is also known to be able to induce cell death in human leukaemia cells[^12].
 
@@ -136,19 +134,19 @@ Gardenin B is a flavonoid lipid molecule (tetramethoxyflavone) being part of the
 
 A third and last compound which has been found to be specifically produced by Mentha x piperita is hesperidin.
 
-<img width="479" alt="hesperidin" src="https://user-images.githubusercontent.com/103575088/169078486-1f010162-18e1-433a-a1da-a50ea57c8f54.png">
+[<img width="479" alt="hesperidin" src="https://user-images.githubusercontent.com/103575088/169078486-1f010162-18e1-433a-a1da-a50ea57c8f54.png">](https://user-images.githubusercontent.com/103575088/169078486-1f010162-18e1-433a-a1da-a50ea57c8f54.png)
 
 Hesperidin is classified as a bioflavonoid, mainly known and used in medicine to help blood vessels function better (in case of haemorrhoids, varicose veins, and poor circulation) and to reduce inflammations. This compound is commonly found in citrus fruits[^13].
 
 Within the compounds produced by Lavandula angustifolia, herniarin was found to be specifically produced, and its spectrum is reported below[^14].
 
-![image](https://user-images.githubusercontent.com/103576860/172245024-7b884629-5337-4354-8fb7-546bccb4a629.png)
+[![image](https://user-images.githubusercontent.com/103576860/172245024-7b884629-5337-4354-8fb7-546bccb4a629.png)](https://user-images.githubusercontent.com/103576860/172245024-7b884629-5337-4354-8fb7-546bccb4a629.png)
 
 Herniarin is a natural chemical compound which is mainly found in species of the Prunus genus and it can be considered a methoxy derivative of coumarin or a methyl derivative of umbelliferone[^15]. This compound is known to have antispasmodic, antigenotoxic and antimicrobial (in presence of UV light) activities[^16]. 
 
 Finally, the only identified compound specifically produced by Melissa officinalis was found to be salviaflaside, whose spectrum is represented below[^17].
 
-![image](https://user-images.githubusercontent.com/103576860/172245240-5aa03712-d25a-4626-a384-415936f12847.png)
+![image](https://user-images.githubusercontent.com/103576860/172247889-67f762c2-ced0-4643-9363-17cab072e87b.png)
 
 Salviaflaside is a phenolic acid known to be produced in herbs and spices[^18]. Salviaflaside is known to have different interesting medical activities, including antioxidant, anti-inflammatory, anti-cancer, antiestrogenic, neuroprotective, and immunomodulatory activities[^19]. 
 
